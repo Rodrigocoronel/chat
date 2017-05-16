@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "coronel";
+$password = "";
 $dbname = "proyectochat";
 
 // Create connection
